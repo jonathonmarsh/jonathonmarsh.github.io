@@ -3,71 +3,33 @@
   side: left
   
 - title: About the kora
-  url: "/about-the-kora/"
+  url: "/about/"
   side: left
   dropdown:
   - title: "Introduction"
     url: "/about/introduction"
-  - title: "Construction"
-    url: "/about/construction/"
-  - title: "Jaliya"
-    url: "/about/jaliya"
-
-- title: Music
-  url: "/music/"
-  side: left
-  dropdown:
-  - title: "Kora Music"
-    url: "/music/koramusic/"
-  - title: "Recordings"
-    url: "/music/recordings"
-  - title: "Videos"
-    url: "/music/videos/"
     
-- title: "Learn to play"
-  url: "/learn/"
+- title: "Island Crossings"
+  url: "/islands/"
   side: left
   dropdown:
-  - title: "Buying an instrument"
-    url: "/learn/buying/"
-  - title: "Tuning"
-    url: "/learn/tuning/"
-  - title: "Practice Tips"
-    url: "/learn/practice/"
-  - title: "Music notation"
-    url: "/learn/notation/"
+  - title: "Hebrides"
+    url: "/islands/hebrides"
+  - title: "Isle of Man"
+    url: "/islands/isleofman/"
 
 - title: "Resources & Links"
   url: "/resources/"
   side: left
   dropdown:
-  - title: "Musicians"
-    url: "/resources/musicians"
-  - title: "Teachers"
-    url: "/resources/teachers"
-  - title: "Instrument Sales"
-    url: "/resources/instrumentsales"
-  - title: "Websites"
-    url: "/resources/websites"
-  - title: "Books and Films"
-    url: "/resources/booksfilms"
+  - title: "Blah"
+    url: "/resources/blah"
 
-- title: "Tunes"
-  url: "/tunes/"
-  side: left
-  dropdown:
-  - title: "Bani"
-    url: "/tunes/bani"
-
-- title: FAQs
-  url: "/faq/"
-  side: left
-
-- title: News
+- title: Blog
   url: "/blog/"
   side: left
   dropdown:
-  - title: "News Archive"
+  - title: "Blog Archive"
     url: "/blog/archive/"
 
 - title: "Search"
