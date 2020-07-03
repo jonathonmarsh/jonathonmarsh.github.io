@@ -8,7 +8,7 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "About the kora"
+  title: "About"
   url: '/about/'
   image: widget-1-302x182.jpg
   text: 'Read more about me'
