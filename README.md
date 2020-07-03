@@ -1,1 +1,1 @@
-The static website for thekoracafe.com, lovingly hosted by github :-)
+The static website for jonathonmarsh.com
