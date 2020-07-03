@@ -10,17 +10,17 @@ header:
 widget1:
   title: "About"
   url: '/about/'
-  image: widget-2-302x182.jpg
+  image: Widget2.jpg
   text: 'Read more about me'
 widget2:
   title: "Something"
   url: '/islands/'
-  image: widget-2-302x182.jpg
+  image: Widget2.jpg
   text: 'Something.'
 widget3:
   title: "Blog"
   url: '/blog/'
-  image: widget-3-302x182.jpg
+  image: Widget2.jpg
   text: 'Read the latest updates.'
 #
 # Use the call for action to show a button on the frontpage
