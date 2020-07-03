@@ -1,0 +1,79 @@
+- title: Home
+  url: "/"
+  side: left
+  
+- title: About the kora
+  url: "/about-the-kora/"
+  side: left
+  dropdown:
+  - title: "Introduction"
+    url: "/about/introduction"
+  - title: "Construction"
+    url: "/about/construction/"
+  - title: "Jaliya"
+    url: "/about/jaliya"
+
+- title: Music
+  url: "/music/"
+  side: left
+  dropdown:
+  - title: "Kora Music"
+    url: "/music/koramusic/"
+  - title: "Recordings"
+    url: "/music/recordings"
+  - title: "Videos"
+    url: "/music/videos/"
+    
+- title: "Learn to play"
+  url: "/learn/"
+  side: left
+  dropdown:
+  - title: "Buying an instrument"
+    url: "/learn/buying/"
+  - title: "Tuning"
+    url: "/learn/tuning/"
+  - title: "Practice Tips"
+    url: "/learn/practice/"
+  - title: "Music notation"
+    url: "/learn/notation/"
+
+- title: "Resources & Links"
+  url: "/resources/"
+  side: left
+  dropdown:
+  - title: "Musicians"
+    url: "/resources/musicians"
+  - title: "Teachers"
+    url: "/resources/teachers"
+  - title: "Instrument Sales"
+    url: "/resources/instrumentsales"
+  - title: "Websites"
+    url: "/resources/websites"
+  - title: "Books and Films"
+    url: "/resources/booksfilms"
+
+- title: "Tunes"
+  url: "/tunes/"
+  side: left
+  dropdown:
+  - title: "Bani"
+    url: "/tunes/bani"
+
+- title: FAQs
+  url: "/faq/"
+  side: left
+
+- title: News
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "News Archive"
+    url: "/blog/archive/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
