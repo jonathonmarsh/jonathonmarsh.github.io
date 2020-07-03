@@ -9,19 +9,18 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "About the kora"
-  url: '/about-the-kora/'
+  url: '/about/'
   image: widget-1-302x182.jpg
-  text: 'Read more about what a kora is, where the instrument originally comes from and how one is made.'
+  text: 'Read more about me'
 widget2:
-  title: "Kora Videos"
-  url: '/music/videos/'
-  text: 'YouTube has lots of great kora videos. See our curated list of the very best. Or click on the image above to watch the current featured track.'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="https://img.youtube.com/vi/U8P9aQ0Phlo/0.jpg" width="244" height="182" alt=""/></a>'
+  title: "Something"
+  url: '/islands/'
+  text: 'Something.'
 widget3:
-  title: "Kora News"
+  title: "Blog"
   url: '/blog/'
   image: widget-3-302x182.jpg
-  text: 'Read the latest updates on concerts, tours, album releases, workshops, festivals and changes to this site.'
+  text: 'Read the latest updates.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -32,10 +31,6 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: https://tinyletter.com/thekoracafe
-  text: If you would like to receive (very) occasional emails with site news, click here ›
-  style: alert
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
