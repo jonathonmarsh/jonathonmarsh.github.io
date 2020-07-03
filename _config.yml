@@ -1,23 +1,23 @@
 
 # Title of your website
-title: 'The Kora Café'
+title: 'jonathonmarsh.com'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'For kora music lovers'
+slogan: 'Personal website'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»All about the beautiful West African musical instrument, the kora.'
+description: '»Just a place to keep some photos and stuff'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Using the Feeling Responsive theme, by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a></p>'
 
 # Main author of the website
 # See > authors.yml
-author: cafekora
+author: jonmarsh
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://www.thekoracafe.com'
+url: 'https://www.jonathonmarsh.com/'
 baseurl: '/'
 
 # This is for the editing function in _/includes/improve_content
@@ -30,8 +30,8 @@ baseurl: '/'
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://www.thekoracafe.com/images/'
-urlaudio: 'https://www.thekoracafe.com/audio/'
+urlimg: 'https://www.jonathonmarsh.com/images/'
+urlaudio: 'https://www.jonathonmarsh.com/audio/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
@@ -103,7 +103,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: true
-      author: cafekora     # Default author for pages
+      author: jonmarsh     # Default author for pages
   -
     scope:
       path: ''
@@ -112,7 +112,7 @@ defaults:
       show_meta: false   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: true
-      author: cafekora     # Default author for posts
+      author: jonmarsh     # Default author for posts
 
 
 
@@ -197,7 +197,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: www-thekoracafe-com
+disqus_shortname: 
 
 
 #      _____
