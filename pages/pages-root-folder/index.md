@@ -10,11 +10,12 @@ header:
 widget1:
   title: "About"
   url: '/about/'
-  image: widget-1-302x182.jpg
+  image: widget-2-302x182.jpg
   text: 'Read more about me'
 widget2:
   title: "Something"
   url: '/islands/'
+  image: widget-2-302x182.jpg
   text: 'Something.'
 widget3:
   title: "Blog"
