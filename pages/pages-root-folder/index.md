@@ -13,10 +13,10 @@ widget1:
   image: Widget2.jpg
   text: 'Read more about me'
 widget2:
-  title: "Something"
+  title: "Running across islands"
   url: '/islands/'
   image: Widget2.jpg
-  text: 'Something.'
+  text: 'Photos from my trips across various islands around Britain.'
 widget3:
   title: "Blog"
   url: '/blog/'
