@@ -102,7 +102,7 @@ defaults:
     values:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
-      comments: true
+      comments: false   # make true for disqus
       author: jonmarsh     # Default author for pages
   -
     scope:
@@ -111,7 +111,7 @@ defaults:
     values:
       show_meta: false   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
-      comments: true
+      comments: false   #make true for disqus
       author: jonmarsh     # Default author for posts
 
 
