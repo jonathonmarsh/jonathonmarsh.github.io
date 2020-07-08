@@ -11,9 +11,9 @@ permalink: "/islands/isleofman2"
 <img src="{{ site.urlimg }}IMG_20190625_190849831_HDR.jpg" width="800" height="600" border="5">
 <p>Looking back at Liverpool</p>
 <img src="{{ site.urlimg }}IMG_20190626_093845085_HDR.jpg" width="800" height="600" border="5">
-<p>Ramsey</p>
+<p>The Electric Tramway from Douglas to Ramsay</p>
 <img src="{{ site.urlimg }}IMG_20190626_093950204.jpg" width="800" height="600" border="5">
-<p>Wallabies on the Isle of Man?</p>
+<p>Poster advertising the Electric Tramway</p>
 <img src="{{ site.urlimg }}IMG_20190627_171523338_HDR.jpg" width="800" height="600" border="5">
 <p>Taking the steam train from Castletown back to Douglas</p>
 <img src="{{ site.urlimg }}IMG_20190627_171625461_HDR.jpg" width="800" height="600" border="5">
