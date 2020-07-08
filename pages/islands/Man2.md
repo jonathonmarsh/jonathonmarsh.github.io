@@ -14,3 +14,7 @@ permalink: "/islands/isleofman2"
 <p>Ramsey</p>
 <img src="{{ site.urlimg }}IMG_20190626_093950204.jpg" width="800" height="600" border="5">
 <p>Wallabies on the Isle of Man?</p>
+<img src="{{ site.urlimg }}IMG_20190627_171523338_HDR.jpg" width="800" height="600" border="5">
+<p>Taking the steam train from Castletown back to Douglas</p>
+<img src="{{ site.urlimg }}IMG_20190627_171625461_HDR.jpg" width="800" height="600" border="5">
+<p>A long way from Kings Cross</p>
