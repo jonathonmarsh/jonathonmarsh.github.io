@@ -1,9 +1,9 @@
 ---
 layout: page
 show_meta: false
-title: "Music"
+title: "Millennium Way, Isle of Man"
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "440px-Millennium_Way.jpg"
 permalink: "/islands/isleofman"
 ---
 This 28-mile trip from Ramsey to Castletown was done in the summer of 2019, as a 'dry run' for the 160 mile run across the Outer Hebrides,
