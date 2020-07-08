@@ -23,3 +23,11 @@ permalink: "/islands/isleofman1"
 <p>Looking back towards the hillier centre of the island</p>
 <img src="{{ site.urlimg }}IMG_20190627_142710476_HDR.jpg" width="800" height="600" border="5">
 <p>Steam train alongisde the path, on the outskirts of Castletown</p>
+<img src="{{ site.urlimg }}IMG_20190627_142711623_HDR.jpg" width="800" height="600" border="5">
+<p>Steam train alongisde the path, on the outskirts of Castletown</p>
+<img src="{{ site.urlimg }}IMG_20190627_144007690_HDR.jpg" width="800" height="600" border="5">
+<p>Steam train alongisde the path, on the outskirts of Castletown</p>
+<img src="{{ site.urlimg }}IMG_20190627_144346630_HDR.jpg" width="800" height="600" border="5">
+<p>Steam train alongisde the path, on the outskirts of Castletown</p>
+<img src="{{ site.urlimg }}IMG_20190627_144629575_HDR.jpg" width="800" height="600" border="5">
+<p>Steam train alongisde the path, on the outskirts of Castletown</p>
