@@ -10,7 +10,8 @@ Quite a few of the Islands around Britain have public rights of way from one sid
 
 To date, I've done the following:
 
-#The Millenium Way, across the Isle of Man (from Ramsey in the North, to Castletown in the South)
+- **<a href="{{ site.url }}{{ site.baseurl }}/islands/IoM/">Isle of Man ›</a>** The Millenium Way, across the Isle of Man (from Ramsey in the North, to Castletown in the South)
 
-#The Hebridean Way footpath, across the Outer Hebrides (from Vatersay in the South, to Stornoway, Lewis in the North)
+- **<a href="{{ site.url }}{{ site.baseurl }}/islands/Hebrides/">The Outer Hebrides ›</a>** The Hebridean Way footpath, across the Outer Hebrides (from Vatersay in the South, to Stornoway, Lewis in the North)
+
 
