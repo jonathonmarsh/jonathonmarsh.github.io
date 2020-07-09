@@ -9,6 +9,15 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
+- title: Islands
+  url: "/islands/"
+  side: left
+  dropdown:
+  - title: "Isle of Man"
+    url: "/islands/isleofman"
+  - title: "Outer Hebrides"
+    url: "/islands/hebrides"
+
 - title: "Search"
   url: "/search/"
   side: right
