@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-subheadline: "Who is Jon Marsh"
+subheadline: "This website"
 teaser: "Jon Marsh's personal website"
 permalink: "/about/"
 header:
