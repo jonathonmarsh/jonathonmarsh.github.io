@@ -3,7 +3,7 @@ layout: page
 title: "About"
 subheadline: "Who is Jon Marsh"
 teaser: "Jon Marsh's personal website"
-permalink: "/info/"
+permalink: "/about/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
