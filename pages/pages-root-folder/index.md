@@ -11,7 +11,7 @@ widget1:
   title: "About"
   url: '/about/'
   image: Widget2.jpg
-  text: 'Read more about me'
+  text: 'About this website'
 widget2:
   title: "Running across islands"
   url: '/islands/'
@@ -20,8 +20,8 @@ widget2:
 widget3:
   title: "Blog"
   url: '/blog/'
-  image: Widget2.jpg
-  text: 'Read the latest updates.'
+  image: Widget3.jpg
+  text: 'Read the latest updates - mostly just books I've read'
 #
 # Use the call for action to show a button on the frontpage
 #
