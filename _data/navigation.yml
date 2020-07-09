@@ -17,6 +17,10 @@
     url: "/islands/isleofman"
   - title: "Outer Hebrides"
     url: "/islands/hebrides"
+    
+- title: "About"
+  url: "/info/"
+  side: right
 
 - title: "Search"
   url: "/search/"
