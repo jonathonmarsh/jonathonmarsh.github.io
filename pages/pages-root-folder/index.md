@@ -9,7 +9,7 @@ header:
   image_fullwidth: header_unsplash_5.jpg
 widget1:
   title: "About"
-  url: '/about/'
+  url: '/info/'
   image: Widget2.jpg
   text: 'About this website'
 widget2:
