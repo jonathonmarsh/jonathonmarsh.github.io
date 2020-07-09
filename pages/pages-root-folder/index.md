@@ -16,11 +16,11 @@ widget2:
   title: "Running across islands"
   url: '/islands/'
   image: Widget2.jpg
-  text: 'Photos from my trips across various islands around Britain.'
+  text: 'Photos from my running trips across various islands around Britain.'
 widget3:
   title: "Blog"
   url: '/blog/'
-  image: Widget3.jpg
+  image: Widget2.jpg
   text: 'Read the latest updates - mostly just books I've read'
 #
 # Use the call for action to show a button on the frontpage
