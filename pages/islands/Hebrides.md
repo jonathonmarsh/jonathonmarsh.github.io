@@ -13,7 +13,10 @@ The route includes some beautiful beaches, amazing loch, sea and mountain views 
 Getting to the start point on Vatersay took me a couple of days - the train up to Edinburgh, then onto Glasgow and Oban, then 5 hours on a pretty rough ferry crossing to Barra. A pleasant evening at a B&B in Barra, which also gave the opportunity to stock up on food and hear local traditional musicians the Vatersay Boys.
 I did the run unsupported and carried all my gear in a 15L backpack, but I had pre-booked hostels or B&Bs for each night.
 
-Day 1
+Note that the distances given here reflect what I measured on my GPS. In some cases, these are more than the official distance given on the Hebridean Way website, either because I got lost (which happened several times), or because I took a detour to a shop, place to eat, or place to stay overnight.
+
+**Day 1 Vatersay to Ardhmor, Barra 24.0km**
+<img src="{{ site.urlimg }}HebridesDay1.png">
 
 I was one of two passengers on the bus over to the first island of Vatersay and was dropped off in the village. The official start point is a little north of the village. The Hebridean Way Cycle Route also starts here and I did see a few cyclists there. The run across the island is mostly on road and is fairly straightforward all the way to the causeway back to Barra.
 
@@ -24,22 +27,22 @@ The weather led to quite a lot of ferry cancellations, but fortunately, my ferry
 Pictures from Vatersay are **<a href="{{ site.url }}{{ site.baseurl }}/islands/vatersay">here. ›</a>**
 Pictures from Barra are **<a href="{{ site.url }}{{ site.baseurl }}/islands/barra">here. ›</a>**
 
-Day 2
+**Day 2 Ardhmor, Barra to Howmore, South Uist 39.2km**
 
 One of the nicer days of the whole trek. It began with a short run to the ferry terminal. Quite a lot of cyclists going over to Eriskay, although one young woman was blown over within a minute of arrival. A brief, but interesting run across Eriskay, then over the causeway to South Uist. Stayed in the lovely Gatliff Howmore hostel, with some interesting company, including a man taking an otter census on South uist, a mother and daughter with a camper van, a Spanish lady who was walking part of the trail and an Australian man who was also walking part of the trail. 
 
 Pictures from Eriksay are **<a href="{{ site.url }}{{ site.baseurl }}/islands/eriksay">here. ›</a>**
 Pictures from South Uist are **<a href="{{ site.url }}{{ site.baseurl }}/islands/southuist">here. ›</a>**
 
-Day 3
+**Day 3 Howmore, South Uist to Balivanich, Benbecula 38km**
 
-Quite a bit of pathless blanket bog and calf deep mud or water, so slow going at times. No rain until after I'd finished and some beautiful views of heather, lochs and mountains and several miles of running along white sandy beach. Five and a half hours to cover 38k, not exactly quick.
+Quite a bit of pathless blanket bog and calf deep mud or water, so slow going at times. No rain until after I'd finished and some beautiful views of heather, lochs and mountains and several miles of running along white sandy beach. My GPS watch ran out of battery a couple of miles short of Balivanich.
 
 Pictures from Benbecula are **<a href="{{ site.url }}{{ site.baseurl }}/islands/benbecula">here. ›</a>**
 
-Day 4
+**Day 4 Balivanich, Benbecula to Lochmaddy, North Uist 35.6km**
 
-Three islands today, Benbecula, grimsay and North Uist. A lot of tedious running along the A road (only way to take the causeway between islands) and a lot of what was in between was very boggy.
+Three islands today, Benbecula, Grimsay and North Uist. A lot of tedious running along the A road (only way to take the causeway between islands) and a lot of what was in between was very boggy.
 
 The view from the top of Ruabhal is astonishing. Only 120m high, but it gives a view over dozens of islands and hundreds of lochs, a real 360 degree panorama of the Hebrides, with a rainbow too. Definitely a highlight of the run.
 
@@ -49,7 +52,7 @@ Oddest thing was a road sign that read "Quiet".
 
 Pictures from Grimsay are **<a href="{{ site.url }}{{ site.baseurl }}/islands/grimsay">here. ›</a>**
 
-Day 5.
+**Day 5. Lochmaddy, North Uist to Sgarista, Harris 27.8km**
 
 Crossed North Uist with really good weather, sunny and no wind. First appearance of any midges, but never needed the midge net.
 
@@ -57,19 +60,19 @@ Amazing views from bein mhor on North Uist, over the causeway with a brief foray
 
 Pictures from North Uist are **<a href="{{ site.url }}{{ site.baseurl }}/islands/northuist">here. ›</a>**
 
-Day 6
+**Day 6 Sgarista, Harris to Tarbert, Harris 42km**
 
-Bit of a slog today, raining all day and poor visibility so not much in terms of views. The path over the hills between sgarasta and seilebost was particularly poorly marked, even by the low standards of this route. Couple of nice EU funded footbridges over rivers miles from any habitation, but no visible path to or from and marker posts so occasional as to be little help. Just short of 26 miles done in a bit over five hours, not really a day for hanging about.
+Bit of a slog today, raining all day and poor visibility so not much in terms of views. The path over the hills between sgarasta and seilebost was particularly poorly marked, even by the low standards of this route. Couple of nice EU funded footbridges over rivers miles from any habitation, but no visible path to or from the bridges and marker posts so occasional as to be little help. Just short of 26 miles done in a bit over five hours, not really a day for hanging about.
 
 Pictures from Harris are **<a href="{{ site.url }}{{ site.baseurl }}/islands/harris">here. ›</a>**
 
-Day 7
+**Day 7 Tarbert, Harris to Balallan, Lewis 33.2km**
 
 Pretty enjoyable day today. Light rain for the first couple of hours, and I had 3 layers on for the first time, but it was fine after that. Powerful rivers, waterfalls and lots of lochs in the morning, with a good rocky path and great views of the north Harris hills.
 
 Short section along the main road and then another good path into the Lewis hills, even an ascent of 100m of so giving panoramic views over lochs studded with islands. A section of turf path came to an abrupt halt where it had been washed away. Instead there was a fast flowing stream about thigh deep and too wide to jump over. Had to pick my way through the bog upstream to a narrow spot and leap over and then make my way back to the boggy path
 
-Day 8
+**Day 8 Balallan, Lewis to Stornoway, Lewis 32.4km**
 
 A good day of running today, 20 miles rather than the advertised 17, quite a lot of it on single track road, the rest of it on a decent raised turf path through the Lewis peat land. Interesting environment, lots of birds - saw ravens, grouse and a golden plover. Panoramic views over the hills and an unexpected short detour to a stone circle not mentioned in my guidebook
 
