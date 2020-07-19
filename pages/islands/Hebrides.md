@@ -98,7 +98,7 @@ The endpoint of the trail is a little underwhelming, a marker next to the wheeli
 
 Pictures from Lewis are **<a href="{{ site.url }}{{ site.baseurl }}/islands/lewis">here. ›</a>**
 
-Summary
+**Summary**
 
 Overall, it was a really enjoyable experience. Ten different islands means a pretty diverse range of terrain and scenery, quite a few places with stunning 360 degree views that my phone camera really hasn't done justice to. Even those places (like the Lewis peatlands) that are pretty bleak were interesting - as a keen botanist it's strange to be in a place in Britain where you don't recognise the plants (or birds.) Lots of interesting history and archaeology on the way too.
 
