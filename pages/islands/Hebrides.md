@@ -28,9 +28,14 @@ Day 2
 
 One of the nicer days of the whole trek. It began with a short run to the ferry terminal. Quite a lot of cyclists going over to Eriskay, although one young woman was blown over within a minute of arrival. A brief, but interesting run across Eriskay, then over the causeway to South Uist. Stayed in the lovely Gatliff Howmore hostel, with some interesting company, including a man taking an otter census on South uist, a mother and daughter with a camper van, a Spanish lady who was walking part of the trail and an Australian man who was also walking part of the trail. 
 
+Pictures from Eriksay are **<a href="{{ site.url }}{{ site.baseurl }}/islands/eriksay">here. ›</a>**
+Pictures from South Uist are **<a href="{{ site.url }}{{ site.baseurl }}/islands/southuist">here. ›</a>**
+
 Day 3
 
 Quite a bit of pathless blanket bog and calf deep mud or water, so slow going at times. No rain until after I'd finished and some beautiful views of heather, lochs and mountains and several miles of running along white sandy beach. Five and a half hours to cover 38k, not exactly quick.
+
+Pictures from Benbecula are **<a href="{{ site.url }}{{ site.baseurl }}/islands/benbecula">here. ›</a>**
 
 Day 4
 
@@ -42,15 +47,21 @@ Couple of stone circles and standing stones and a big chambered cairn. Second od
 
 Oddest thing was a road sign that read "Quiet".
 
+Pictures from Grimsay are **<a href="{{ site.url }}{{ site.baseurl }}/islands/grimsay">here. ›</a>**
+
 Day 5.
 
 Crossed North Uist with really good weather, sunny and no wind. First appearance of any midges, but never needed the midge net.
 
 Amazing views from bein mhor on North Uist, over the causeway with a brief foray into Berneray. Lots of cyclists on the ferry to Harris. Then the rest of the afternoon spent running over the South Harris hills and more amazing views as I came over the hill towards sgarista beach.
 
+Pictures from North Uist are **<a href="{{ site.url }}{{ site.baseurl }}/islands/northuist">here. ›</a>**
+
 Day 6
 
 Bit of a slog today, raining all day and poor visibility so not much in terms of views. The path over the hills between sgarasta and seilebost was particularly poorly marked, even by the low standards of this route. Couple of nice EU funded footbridges over rivers miles from any habitation, but no visible path to or from and marker posts so occasional as to be little help. Just short of 26 miles done in a bit over five hours, not really a day for hanging about.
+
+Pictures from Harris are **<a href="{{ site.url }}{{ site.baseurl }}/islands/harris">here. ›</a>**
 
 Day 7
 
@@ -63,6 +74,8 @@ Day 8
 A good day of running today, 20 miles rather than the advertised 17, quite a lot of it on single track road, the rest of it on a decent raised turf path through the Lewis peat land. Interesting environment, lots of birds - saw ravens, grouse and a golden plover. Panoramic views over the hills and an unexpected short detour to a stone circle not mentioned in my guidebook
 
 The endpoint of the trail is a little underwhelming, a marker next to the wheelie bins in a café car park. Fifteen minutes after finishing, the heavens opened and we now have 40mph winds.
+
+Pictures from Lewis are **<a href="{{ site.url }}{{ site.baseurl }}/islands/lewis">here. ›</a>**
 
 Summary
 
