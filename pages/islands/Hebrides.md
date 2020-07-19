@@ -25,6 +25,7 @@ The route across Barra takes a fairly hilly (and boggy) line along the west of t
 The weather led to quite a lot of ferry cancellations, but fortunately, my ferry from Barra to Eriskay the next day was OK. 
 
 Pictures from Vatersay are **<a href="{{ site.url }}{{ site.baseurl }}/islands/vatersay">here. ›</a>**
+
 Pictures from Barra are **<a href="{{ site.url }}{{ site.baseurl }}/islands/barra">here. ›</a>**
 
 **Day 2 Ardhmor, Barra to Howmore, South Uist 39.2km**
@@ -41,6 +42,7 @@ Really nice stretch up the west coast of South Uist, although very isolated, as 
 Stayed in the lovely Gatliff Howmore hostel, with some interesting company, including a man taking an otter census on South uist, a mother and daughter with a camper van, a Spanish lady who was walking part of the trail and an Australian man who was also walking part of the trail. 
 
 Pictures from Eriksay are **<a href="{{ site.url }}{{ site.baseurl }}/islands/eriksay">here. ›</a>**
+
 Pictures from South Uist are **<a href="{{ site.url }}{{ site.baseurl }}/islands/southuist">here. ›</a>**
 
 **Day 3 Howmore, South Uist to Balivanich, Benbecula 38km**
