@@ -28,20 +28,29 @@ Pictures from Vatersay are **<a href="{{ site.url }}{{ site.baseurl }}/islands/v
 Pictures from Barra are **<a href="{{ site.url }}{{ site.baseurl }}/islands/barra">here. ›</a>**
 
 **Day 2 Ardhmor, Barra to Howmore, South Uist 39.2km**
+<img src="{{ site.urlimg }}HebridesDay2a.png">
 
-One of the nicer days of the whole trek. It began with a short run to the ferry terminal. Quite a lot of cyclists going over to Eriskay, although one young woman was blown over within a minute of arrival. A brief, but interesting run across Eriskay, then over the causeway to South Uist. Stayed in the lovely Gatliff Howmore hostel, with some interesting company, including a man taking an otter census on South uist, a mother and daughter with a camper van, a Spanish lady who was walking part of the trail and an Australian man who was also walking part of the trail. 
+One of the nicer days of the whole trek. It began with a short run to the ferry terminal. Quite a lot of cyclists going over to Eriskay, although one young woman was blown over within a minute of arrival. 
+
+<img src="{{ site.urlimg }}HebridesDay2b.png">
+
+A brief, but interesting run across Eriskay, then over the causeway to South Uist. Stopped for lunch (and stopped my watch) at the very nice Kilbride cafe, which turned out to be my last hot meal for a couple of days.
+
+<img src="{{ site.urlimg }}HebridesDay2c.png">
+Really nice stretch up the west coast of South Uist, although very isolated, as I saw no-one (and also no phone signal).
+Stayed in the lovely Gatliff Howmore hostel, with some interesting company, including a man taking an otter census on South uist, a mother and daughter with a camper van, a Spanish lady who was walking part of the trail and an Australian man who was also walking part of the trail. 
 
 Pictures from Eriksay are **<a href="{{ site.url }}{{ site.baseurl }}/islands/eriksay">here. ›</a>**
 Pictures from South Uist are **<a href="{{ site.url }}{{ site.baseurl }}/islands/southuist">here. ›</a>**
 
 **Day 3 Howmore, South Uist to Balivanich, Benbecula 38km**
-
+<img src="{{ site.urlimg }}HebridesDay3.png">
 Quite a bit of pathless blanket bog and calf deep mud or water, so slow going at times. No rain until after I'd finished and some beautiful views of heather, lochs and mountains and several miles of running along white sandy beach. My GPS watch ran out of battery a couple of miles short of Balivanich.
 
 Pictures from Benbecula are **<a href="{{ site.url }}{{ site.baseurl }}/islands/benbecula">here. ›</a>**
 
 **Day 4 Balivanich, Benbecula to Lochmaddy, North Uist 35.6km**
-
+<img src="{{ site.urlimg }}HebridesDay4.png">
 Three islands today, Benbecula, Grimsay and North Uist. A lot of tedious running along the A road (only way to take the causeway between islands) and a lot of what was in between was very boggy.
 
 The view from the top of Ruabhal is astonishing. Only 120m high, but it gives a view over dozens of islands and hundreds of lochs, a real 360 degree panorama of the Hebrides, with a rainbow too. Definitely a highlight of the run.
@@ -53,10 +62,14 @@ Oddest thing was a road sign that read "Quiet".
 Pictures from Grimsay are **<a href="{{ site.url }}{{ site.baseurl }}/islands/grimsay">here. ›</a>**
 
 **Day 5. Lochmaddy, North Uist to Sgarista, Harris 27.8km**
-
+<img src="{{ site.urlimg }}HebridesDay5a.png">
 Crossed North Uist with really good weather, sunny and no wind. First appearance of any midges, but never needed the midge net.
 
-Amazing views from bein mhor on North Uist, over the causeway with a brief foray into Berneray. Lots of cyclists on the ferry to Harris. Then the rest of the afternoon spent running over the South Harris hills and more amazing views as I came over the hill towards sgarista beach.
+Amazing views from bein mhor on North Uist, over the causeway with a brief foray into Berneray, from where I caught the ferry to Harris. 
+
+<img src="{{ site.urlimg }}HebridesDay5b.png">
+
+Lots of cyclists on the ferry to Harris. Then the rest of the afternoon spent running over the South Harris hills and more amazing views as I came over the hill towards sgarista beach.
 
 Pictures from North Uist are **<a href="{{ site.url }}{{ site.baseurl }}/islands/northuist">here. ›</a>**
 
@@ -67,13 +80,14 @@ Bit of a slog today, raining all day and poor visibility so not much in terms of
 Pictures from Harris are **<a href="{{ site.url }}{{ site.baseurl }}/islands/harris">here. ›</a>**
 
 **Day 7 Tarbert, Harris to Balallan, Lewis 33.2km**
-
+<img src="{{ site.urlimg }}HebridesDay7a.png">
+<img src="{{ site.urlimg }}HebridesDay7b.png">
 Pretty enjoyable day today. Light rain for the first couple of hours, and I had 3 layers on for the first time, but it was fine after that. Powerful rivers, waterfalls and lots of lochs in the morning, with a good rocky path and great views of the north Harris hills.
 
-Short section along the main road and then another good path into the Lewis hills, even an ascent of 100m of so giving panoramic views over lochs studded with islands. A section of turf path came to an abrupt halt where it had been washed away. Instead there was a fast flowing stream about thigh deep and too wide to jump over. Had to pick my way through the bog upstream to a narrow spot and leap over and then make my way back to the boggy path
+Short section along the main road and then another good path into the Lewis hills, even an ascent of 100m of so giving panoramic views over lochs studded with islands. A section of turf path came to an abrupt halt where it had been washed away. Instead there was a fast flowing stream about thigh deep and too wide to jump over. Had to pick my way through the bog upstream to a narrow spot and leap over and then make my way back to the boggy path.
 
 **Day 8 Balallan, Lewis to Stornoway, Lewis 32.4km**
-
+<img src="{{ site.urlimg }}HebridesDay8.png">
 A good day of running today, 20 miles rather than the advertised 17, quite a lot of it on single track road, the rest of it on a decent raised turf path through the Lewis peat land. Interesting environment, lots of birds - saw ravens, grouse and a golden plover. Panoramic views over the hills and an unexpected short detour to a stone circle not mentioned in my guidebook
 
 The endpoint of the trail is a little underwhelming, a marker next to the wheelie bins in a café car park. Fifteen minutes after finishing, the heavens opened and we now have 40mph winds.
