@@ -83,8 +83,10 @@ Pictures from Harris are **<a href="{{ site.url }}{{ site.baseurl }}/islands/har
 
 **Day 7 Tarbert, Harris to Balallan, Lewis 33.2km**
 <img src="{{ site.urlimg }}HebridesDay7a.png">
+
+Pretty enjoyable day today. Light rain for the first couple of hours, and I had 3 layers on for the first time, but it was fine after that. Powerful rivers, waterfalls and lots of lochs in the morning, with a good rocky path and great views of the north Harris hills. Stopped for lunch at the Lewis/Harris border, where there is a van selling freshly caught fish (and chips, and a few other things).
+
 <img src="{{ site.urlimg }}HebridesDay7b.png">
-Pretty enjoyable day today. Light rain for the first couple of hours, and I had 3 layers on for the first time, but it was fine after that. Powerful rivers, waterfalls and lots of lochs in the morning, with a good rocky path and great views of the north Harris hills.
 
 Short section along the main road and then another good path into the Lewis hills, even an ascent of 100m of so giving panoramic views over lochs studded with islands. A section of turf path came to an abrupt halt where it had been washed away. Instead there was a fast flowing stream about thigh deep and too wide to jump over. Had to pick my way through the bog upstream to a narrow spot and leap over and then make my way back to the boggy path.
 
