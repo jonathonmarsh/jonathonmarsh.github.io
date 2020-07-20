@@ -17,6 +17,11 @@
     url: "/islands/isleofman"
   - title: "Outer Hebrides"
     url: "/islands/hebrides"
+    dropdown:
+      - title: "Vatersay"
+      url: "/islands/vatersay"
+      - title: "Barra"
+      url: "/islands/barra"
     
 - title: "About"
   url: "/info/"
