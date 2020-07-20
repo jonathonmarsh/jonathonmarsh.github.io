@@ -6,7 +6,7 @@ header:
    image_fullwidth: "Widget2.jpg"
 permalink: "/islands/barra"
 ---
-Barra is a very nice place to visit, with its main town and ferry port, Castlebay having several shops and restaurants. I enjoyed listening to local band the Vatersay Boys performing in the evening and would love to return for the annual Barra-thon race. The Hebridean Way footpath goes the full length of the island, from the causeway to Vatersay north to the ferry terminal at Ardhmor, where the ferry takes you on to Eriskay. Most of the route goes over the island's hills, on fairly boggy terrain (and no marked paths) but there are road sections near the Isle of Barra beach hotel and the ferry terminal.
+Barra is a very nice place to visit, with its main town and ferry port, Castlebay, having several shops and restaurants. I enjoyed listening to local band the Vatersay Boys performing in the evening and would love to return for the annual Barra-thon race. The Hebridean Way footpath goes the full length of the island, from the causeway to Vatersay north to the ferry terminal at Ardhmor, where the ferry takes you on to Eriskay. Most of the route goes over the island's hills, on fairly boggy terrain (and no marked paths) but there are road sections near the Isle of Barra beach hotel and the ferry terminal.
 
 At Allt Easdail, you leave the road and head up over Beinn Tangabhal. This archaelogical site has several boards explaining the various finds here.
 
