@@ -31,7 +31,7 @@ Pictures from Barra are **<a href="{{ site.url }}{{ site.baseurl }}/islands/barr
 **Day 2 Ardhmor, Barra to Howmore, South Uist 39.2km**
 <img src="{{ site.urlimg }}HebridesDay2a.png">
 
-One of the nicer days of the whole trek. It began with a short run to the ferry terminal. Quite a lot of cyclists going over to Eriskay, although one young woman was blown over within a minute of arrival. 
+One of the nicer days of the whole trek. It began with a short run to the ferry terminal. 
 
 <img src="{{ site.urlimg }}HebridesDay2b.png">
 
@@ -41,7 +41,7 @@ A brief, but interesting run across Eriskay, then over the causeway to South Uis
 Really nice stretch up the west coast of South Uist, although very isolated, as I saw no-one (and also no phone signal).
 Stayed in the lovely Gatliff Howmore hostel, with some interesting company, including a man taking an otter census on South uist, a mother and daughter with a camper van, a Spanish lady who was walking part of the trail and an Australian man who was also walking part of the trail. 
 
-Pictures from Eriksay are **<a href="{{ site.url }}{{ site.baseurl }}/islands/eriskay">here. ›</a>**
+Pictures from Eriskay are **<a href="{{ site.url }}{{ site.baseurl }}/islands/eriskay">here. ›</a>**
 
 Pictures from South Uist are **<a href="{{ site.url }}{{ site.baseurl }}/islands/southuist">here. ›</a>**
 
