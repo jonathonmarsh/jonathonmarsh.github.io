@@ -17,11 +17,11 @@ The Gatliff Howmore Hostel
 
 <img src="{{ site.urlimg }}IMG_20190905_091537067_HDR.jpg" width="800" height="600" border="5">
 
-Plenty of archaeology to be seen today, this is 
+Plenty of archaeology to be seen today, this is the not-quite-so old Caisteal Bheagram, a medieval tower sitting on a small island in the loch. 
 
-<img src="{{ site.urlimg }}MG_20190905_092959897.jpg" width="800" height="600" border="5">
+<img src="{{ site.urlimg }}IMG_20190905_092959897.jpg" width="800" height="600" border="5">
 
-An amusing alteration to the road sign at the causeway over to South Uist.
+One of many nice bridges, and a fairly obvious path for once.
 
 <img src="{{ site.urlimg }}IMG_20190905_112131591_HDR.jpg" width="800" height="600" border="5">
 
