@@ -12,11 +12,11 @@ A view of the cairn and OS trig point on Ruabhal.
 
 <img src="{{ site.urlimg }}IMG_20190906_101215882.jpg" width="800" height="600" border="5">
 
-A rainbow over Ruabhal.
+And the hills and water in one direction, from the top.
 
 <img src="{{ site.urlimg }}IMG_20190906_101418911_HDR.jpg" width="800" height="600" border="5">
 
-An amusing alteration to the road sign at the causeway over to South Uist.
+A rainbow over Ruabhal.
 
 <img src="{{ site.urlimg }}IMG_20190906_102636466_HDR.jpg" width="800" height="600" border="5">
 
