@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "Lewis"
 header:
-   image_fullwidth: "Widget2.jpg"
+   image_fullwidth: "HebridesBeach.png"
 permalink: "/islands/lewis"
 ---
 Lewis is actually the same island as Harris, but the range of mountains which divides them made it easier to travel from one to the other by boat in the past, so they have distinct cultures and quite different landscapes and they are traditionally considered as separate islands.
