@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "Harris"
 header:
-   image_fullwidth: "Widget2.jpg"
+   image_fullwidth: "HebridesBeach.png"
 permalink: "/islands/harris"
 ---
 Harris is, in my opinion, the most attractive of the Outer Hebrides, and a real highlight of the UK. The Hebridean Way path doesn't visit some of the most interesting and beautiful parts of Harris, so I would recommend that anyone doing the route tries to add on a bit of extra time to properly look around Harris.
