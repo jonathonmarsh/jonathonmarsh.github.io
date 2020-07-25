@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "North Uist"
 header:
-   image_fullwidth: "Widget2.jpg"
+   image_fullwidth: "HebridesBeach.png"
 permalink: "/islands/northuist"
 ---
 North Uist is a fairly attractive island, with a mixture of terrain and quite a few points of interest along the footpath. After the initial road section along the causeway, which is quite busy with fast-moving cars, you take a route towards Lochmaddy across moorland. This uses a technique which is quite commonly found on the footpath, of digging two peat trenches and piling them up to create a raised line with ditches on either side, making it slightly less wet than it otherwise would be.
