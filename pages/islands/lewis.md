@@ -20,10 +20,10 @@ The Lewis peatlands have some fine views, hard to capture the panorama on my pho
 <img src="{{ site.urlimg }}IMG_20190910_114001517_HDR.jpg" width="800" height="600" border="5">
 
 The stone circle at Achmore, not as impressive as Calanais, but not mentioned in the guidebook, an interesting (but windy) place to break my run.
-<img src="{{ site.urlimg }}IMG_20190906_114719108.jpg" width="800" height="600" border="5">
+<img src="{{ site.urlimg }}IMG_20190910_121851678_HDR.jpg" width="800" height="600" border="5">
 
 The finish point of the Hebridean Way footpath, outside the Woodlands Centre Cafe in Stornoway.
-<img src="{{ site.urlimg }}IMG_20190906_114719108.jpg" width="800" height="600" border="5">
+<img src="{{ site.urlimg }}IMG_20190910_145618413_HDR.jpg" width="800" height="600" border="5">
 
 The Hebridean Way footpath currently ends at Stornoway, although it is hoped that a future extension will lead to the creation of a path to the Butt of Lewis, at the tip of the island, where the cycle route ends. There are quite a few nice things to see.
 
