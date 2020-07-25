@@ -3,12 +3,12 @@ layout: page
 show_meta: false
 title: "Hebridean Way"
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "IslandsWater.png"
 permalink: "/islands/hebrides"
 ---
 In September 2019, I ran the 156 mile Hebridean Way Footpath, taking a week to complete it. The path starts on Vatersay in the South and finishes at Stornoway in Lewis, visiting 10 islands of the Outer Hebrides. This requires two lovely ferry trips between islands, but also uses the six causeways which have been built, connecting the islands together.
 
-The route includes some beautiful beaches, amazing loch, sea and mountain views and some very interesting archaeology and Gaelic culture. The terrain is not too hilly, but navigation and weather can be challenging, and conditions underfoot boggy (at best). The route is mostly off-road and there are long sections with no phone coverage or access to facilities like shops.
+The route includes some beautiful beaches, amazing loch, sea and mountain views and some very interesting archaeology and Gaelic culture. The terrain is not too hilly, but navigation and weather can be challenging, and conditions underfoot boggy (at best). The route is mostly off-road and there are long sections with no phone coverage or access to facilities like shops. I used the excellent Cicerone Press guidebook, by Richard Barett for planning and carried it with me, supplemented by the excellent detailed route instructions provided by the Hebridean Tourist authority: <https://www.visitouterhebrides.co.uk/see-and-do/activities/hebridean-way/walking-hebridean-way>
 
 Getting to the start point on Vatersay took me a couple of days - the train up to Edinburgh, then onto Glasgow and Oban, then 5 hours on a pretty rough ferry crossing to Barra. A pleasant evening at a B&B in Barra, which also gave the opportunity to stock up on food and hear local traditional musicians the Vatersay Boys.
 I did the run unsupported and carried all my gear in a 15L backpack, but I had pre-booked hostels or B&Bs for each night.
@@ -91,9 +91,9 @@ Short section along the main road and then another good path into the Lewis hill
 
 **Day 8 Balallan, Lewis to Stornoway, Lewis 32.4km**
 <img src="{{ site.urlimg }}HebridesDay8.png">
-A good day of running today, 20 miles rather than the advertised 17, quite a lot of it on single track road, the rest of it on a decent raised turf path through the Lewis peat land. Interesting environment, lots of birds - saw ravens, grouse and a golden plover. Panoramic views over the hills and an unexpected short detour to a stone circle not mentioned in my guidebook
+A good day of running today, 20 miles rather than the advertised 17, quite a lot of it on single track road, the rest of it on a decent raised turf path through the Lewis peat land. Interesting environment, lots of birds - saw ravens, grouse and a golden plover. Panoramic views over the hills and an unexpected short detour to a stone circle.
 
-The endpoint of the trail is a little underwhelming, a marker next to the wheelie bins in a café car park. Fifteen minutes after finishing, the heavens opened and we now have 40mph winds.
+The endpoint of the trail is a little underwhelming, a marker next to the wheelie bins in a café car park. Fifteen minutes after finishing, the heavens opened and the windspeed went up to around 40mph, so I was very glad of the chance to have a coffee and sandwich.
 
 Pictures from Lewis are **<a href="{{ site.url }}{{ site.baseurl }}/islands/lewis">here. ›</a>**
 
@@ -105,4 +105,4 @@ The logistics of doing this route as a run (or walk) were interesting and all wo
 
 In terms of running, there is a wide range of surfaces - A roads, minor roads, sandy beach, heather moorland, gravel tracks, pathless bog, standing water and sections of path constructed by cutting turf and piling it above the resulting channel. Be prepared to watch your footing carefully and to have to walk sections, or to stop to consult maps/ GPS/ compass, as waymarking is not great in some places. It's not a route to attempt at any great speed. 
 
-Overall, though, it's a beautiful place to spend time and I really appreciate the difficulty the authorities have had in creating a path across such difficult terrain and just how much effort and thought has gone into it. In 7 days of running, I saw only one other person on the off-road sections. This is not the West Highland Way or other popular long-distance routes. It's empty and there's little infrastructure. I do hope more people will be tempted to walk or run the path
+Overall, though, it's a beautiful place to spend time and I really appreciate the difficulty the authorities have had in creating a path across such difficult terrain and just how much effort and thought has gone into it. In 7 days of running, I saw only one other person on the off-road sections. This is not the West Highland Way or other popular long-distance routes. It's empty and there's little infrastructure. I do hope more people will be tempted to walk or run the path.
