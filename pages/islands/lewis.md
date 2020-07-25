@@ -6,11 +6,23 @@ header:
    image_fullwidth: "Widget2.jpg"
 permalink: "/islands/lewis"
 ---
+Lewis is actually the same island as Harris, but the range of mountains which divides them made it easier to travel from one to the other by boat in the past, so they have distinct cultures and quite different landscapes and they are traditionally considered as separate islands.
 
+The route through Lewis is a mix of road, peat and some nice off-road paths, and navigation was rarely a problem (except, embarrasingly, right at the end in Stornoway itself.)
 
+A fine view over the Aline plantation and the Lewis hills.
+<img src="{{ site.urlimg }}IMG_20190909_132228420_HDR.jpg" width="800" height="600" border="5">
 
+Fairly wet bit of "path" through the peat.
+<img src="{{ site.urlimg }}IMG_20190909_145857057_HDR.jpg" width="800" height="600" border="5">
+
+The Lewis peatlands have some fine views, hard to capture the panorama on my phone camera.
+<img src="{{ site.urlimg }}IMG_20190910_114001517_HDR.jpg" width="800" height="600" border="5">
+
+The stone circle at Achmore, not as impressive as Calanais, but not mentioned in the guidebook, an interesting (but windy) place to break my run.
 <img src="{{ site.urlimg }}IMG_20190906_114719108.jpg" width="800" height="600" border="5">
-<img src="{{ site.urlimg }}IMG_20190906_114719108.jpg" width="800" height="600" border="5">
+
+The finish point of the Hebridean Way footpath, outside the Woodlands Centre Cafe in Stornoway.
 <img src="{{ site.urlimg }}IMG_20190906_114719108.jpg" width="800" height="600" border="5">
 
 The Hebridean Way footpath currently ends at Stornoway, although it is hoped that a future extension will lead to the creation of a path to the Butt of Lewis, at the tip of the island, where the cycle route ends. There are quite a few nice things to see.
