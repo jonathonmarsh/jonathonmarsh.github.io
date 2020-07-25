@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "Running across islands"
   url: '/islands/'
-  image: Widget2.jpg
+  image: BlogIslands.jpg
   text: 'Photos from my running trips across various islands around Britain.'
 widget3:
   title: "Blog"
