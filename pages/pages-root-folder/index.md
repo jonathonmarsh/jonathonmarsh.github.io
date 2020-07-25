@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "Blog"
   url: '/blog/'
-  image: Widget2.jpg
+  image: BlogImage.jpg
   text: 'Read the latest updates.'
   
 #
