@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "Benbecula"
 header:
-   image_fullwidth: "Widget2.jpg"
+   image_fullwidth: "HebridesBeach.png"
 permalink: "/islands/benbecula"
 ---
 After crossing the causeway, the route continues along the main road through Lionacleit, before heading off to the west coast of the island for a stretch along sand dunes. You're then onto a minor road and then the main road into Balivanich, which has a slightly eastern bloc 1960s feel to much of the housing, but has a supermarket and bank. Fairly easy navigation & good underfoot conditions in comparison with most of the route, but not especially picturesque. 
