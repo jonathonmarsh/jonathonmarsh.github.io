@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "South Uist"
 header:
-   image_fullwidth: "Widget2.jpg"
+   image_fullwidth: "HebridesBeach.png"
 permalink: "/islands/southuist"
 ---
 South Uist is the second largest of the Outer Hebrides, but has a population below 2000 people. Not surprising then, that I didn't see anybody at all while running along the coast from the Kildare cafe up to my overnight stay at the Gatliff hostel, a beautiful traditional blackhouse and the nicest place I stayed during the run. Some of the Hebridean islands are quite flat, but the peaks of Beinn Mhòr and Hecla, both over 600 metres, were prominent for much of the time.
