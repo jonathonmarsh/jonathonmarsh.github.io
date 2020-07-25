@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "Vatersay"
 header:
-   image_fullwidth: "Widget2.jpg"
+   image_fullwidth: "HebridesBeach.png"
 permalink: "/islands/vatersay"
 ---
 Vatersay is a small island, the southernmost inhabited island of the Outer Hebrides.
