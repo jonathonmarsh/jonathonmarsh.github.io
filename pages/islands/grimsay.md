@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "Grimsay"
 header:
-   image_fullwidth: "Widget2.jpg"
+   image_fullwidth: "HebridesBeach.png"
 permalink: "/islands/grimsay"
 ---
 There's not too much to say about Grimsay. The route takes the A865 North Causeway off Benbecula, across Grimsay, and several smaller uninhabited islands, before arriving in North Uist. The only photo I took, was of the road sign. So here it is.
