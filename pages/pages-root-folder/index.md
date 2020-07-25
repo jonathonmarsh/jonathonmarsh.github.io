@@ -10,7 +10,7 @@ header:
 widget1:
   title: "About"
   url: '/info/'
-  image: Widget2.jpg
+  image: AboutMe.jpg
   text: 'About this website'
 widget2:
   title: "Running across islands"
