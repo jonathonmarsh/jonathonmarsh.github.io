@@ -3,7 +3,7 @@ layout: page
 title:  "The Way Home - Mark Boyle"
 breadcrumb: true
 categories:
-    - koranews
+    - book review
 tags:
     - blog
     - content
@@ -12,7 +12,7 @@ tags:
 header:
     image_fullwidth: gallery-example-1.jpg
 ---
-The Way Home - Tales from a life without Technology by Mark Boyle.
+The Way Home - Tales from a life without Technology by Mark Boyle. (Read 24 July 2020.)
 
 Enjoyable and thought-provoking book, by Mark Boyle, documenting a year living on his Irish smallholding without technology. His writing is much improved since his earlier book about living without money for a year.
 
