@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "The Way Home - Mark Boyle"
+title:  "Book Review: The Way Home - Mark Boyle"
 breadcrumb: true
 categories:
     - book review
