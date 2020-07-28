@@ -3,7 +3,7 @@ layout: page
 title:  "Book Review: Prisoners of Geography - Tim Marshall"
 breadcrumb: true
 categories:
-    - book review
+    - bookreview
 tags:
     - blog
     - content
