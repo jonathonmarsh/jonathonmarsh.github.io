@@ -3,7 +3,7 @@ layout: page
 title:  "Book Review: How to Fail at Almost Everything and Still Win Big - by Scott Adams"
 breadcrumb: true
 categories:
-    - book review
+    - bookreview
 tags:
     - blog
     - content
