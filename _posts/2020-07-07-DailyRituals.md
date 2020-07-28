@@ -3,7 +3,7 @@ layout: page
 title:  "Book Review: Daily Rituals - Mason Currey"
 breadcrumb: true
 categories:
-    - book review
+    - bookreview
 tags:
     - blog
     - content
