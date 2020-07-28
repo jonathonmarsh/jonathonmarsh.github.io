@@ -1,3 +1,4 @@
+---
 layout: page
 title:  "Book Review: How to get Rich - by Felix Dennis"
 breadcrumb: true
