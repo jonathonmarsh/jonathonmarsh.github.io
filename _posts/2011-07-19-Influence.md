@@ -13,9 +13,10 @@ header:
     image_fullwidth: gallery-example-1.jpg
 ---
 
-It's a book on the psychology of persuasion, very much targeted at people involved in sales and/or marketing, but I guess more widely, organisations seeking volunteers or anyone who needs to persuade other people
+**Summary**
+It's a book on the psychology of persuasion, very much targeted at people involved in sales and/or marketing, but I guess more widely, organisations seeking volunteers or anyone who needs to persuade other people.
 
-Key points I noted:
+**Key points**
 
 - If you ask someone to do you a favor it's better if you provide a reason. The word “because” triggers compliance.
 
@@ -23,8 +24,9 @@ Key points I noted:
 
 - The rule for reciprocation - we should try to repay, in kind, what another person has provided us. The obligation to receive reduces our ability to choose who we are in debt to.
 
-- People will often avoid asking for a needed favor if they will not be in a position to repay it. The rule for reciprocation governs the compromise process, so it is possible to use an initial concession as part of a compliance technique.
-Rejection-then-retreat. Strategy of starting with an extreme demand and then retreating to a more moderate one.
+- People will often avoid asking for a needed favor if they will not be in a position to repay it. The rule for reciprocation governs the compromise process, so it is possible to use an initial concession as part of a compliance technique. 
+
+- Rejection-then-retreat. Strategy of starting with an extreme demand and then retreating to a more moderate one.
 
 - Once a stand has been taken, the need for consistency causes people to bring what they believe in line with what they did. They convince themselves that they made the right choice.
 
