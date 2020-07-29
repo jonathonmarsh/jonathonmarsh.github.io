@@ -13,10 +13,11 @@ header:
     image_fullwidth: gallery-example-1.jpg
 ---
 
-**Summary**
+**Summary:**
+
 It's a book on the psychology of persuasion, very much targeted at people involved in sales and/or marketing, but I guess more widely, organisations seeking volunteers or anyone who needs to persuade other people.
 
-**Key points**
+**Key points:**
 
 - If you ask someone to do you a favor it's better if you provide a reason. The word “because” triggers compliance.
 
