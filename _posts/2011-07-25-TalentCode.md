@@ -30,11 +30,11 @@ Deep practice is what makes you improve at anything. A really interesting topic 
 - Experts practice strategically. When they fail, they don't blame it on luck or themselves. 
 - Thirty days of no practice causes skills to go. Limit on how much deep practice human beings can do in a day - between three and five hours a day, 
 - Laws of learning:
-  -explanation
-  -demonstration
-  -imitation
-  -correction
-  -repetition.
+  - explanation
+  - demonstration
+  - imitation
+  - correction
+  - repetition.
 
 - “Don't look for the big, quick improvement. Seek the small improvement one day at a time. That's the only way it happens - and when it happens, it lasts,” 
 - "People are shy not because they lack social skills but because they haven't practiced them sufficiently. Talking on the phone or asking someone on a date is a learnable skill"
