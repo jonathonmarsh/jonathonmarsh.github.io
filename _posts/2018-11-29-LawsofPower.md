@@ -12,8 +12,10 @@ tags:
 header:
     image_fullwidth: gallery-example-1.jpg
 ---
+**Summary:**
 One might view this book as a guide for psychopaths. Certainly the contents might be construed as evil. An interesting read, even if only to understand how some people behave. Some of the laws are contradictory, as you might expect. It's sold over a million copies.
 
+**Notes:**
 The 48 laws are as follows:
 
 Law 1: Never Outshine the Master. Basically, suck up to those above you and make them look good. Don't display so much talent that they start to fear you.
