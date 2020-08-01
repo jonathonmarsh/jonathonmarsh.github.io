@@ -21,12 +21,6 @@ A journalist sent to cover a memory championship, adopts memory techniques and w
 
 Schools go about teaching all wrong. They pour vast amounts of information into students’ heads, but don’t teach them how to retain it.
 
-
-
-The ancient and medieval way of reading was totally different from how we read today. One didn’t just memorize texts; one ruminated on them 
-
-## ATTENTION
-
 What I had really trained my brain to do, as much as to memorize, was to be more mindful, and to pay attention to the world around me. 
 Remembering can only happen if you decide to take notice.
 
@@ -41,7 +35,6 @@ If every sensation or thought was immediately filed away in the enormous databas
 Chunking is a way to decrease the number of items you have to remember by increasing the size of each item.
 
 We don’t remember isolated facts; we remember things in context.
-
 
 Three stages that anyone goes through when acquiring a new skill.
 1. “cognitive stage” you’re intellectualizing the task and discovering new strategies to accomplish it more proficiently.
