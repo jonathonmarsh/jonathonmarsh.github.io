@@ -19,9 +19,9 @@ Funny (and wise) walk through the history of philosphy, showing how their ideas 
 
 **My notes**
 
-Consolation for Unpopularity (Socrates)
-Consolation for Not Having Enough Money (Epicurus)
-Consolation for Frustration (Seneca)
-Consolation for Inadequacy (Montaigne)
-Consolation for a Broken Heart (Schopenhauer)
-Consolation for Difficulties (Nietzsche)
+-Consolation for Unpopularity (Socrates)
+-Consolation for Not Having Enough Money (Epicurus)
+-Consolation for Frustration (Seneca)
+-Consolation for Inadequacy (Montaigne)
+-Consolation for a Broken Heart (Schopenhauer)
+-Consolation for Difficulties (Nietzsche)
