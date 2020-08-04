@@ -21,7 +21,7 @@ widget3:
   title: "Blog"
   url: '/blog/'
   image: BlogImage.jpg
-  text: 'Read the latest updates.'
+  text: 'Just notes on various books at the moment.'
   
 #
 # Use the call for action to show a button on the frontpage
