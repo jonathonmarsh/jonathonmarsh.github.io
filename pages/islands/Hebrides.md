@@ -18,9 +18,9 @@ Note that the distances given here reflect what I measured on my GPS. In some ca
 **Day 1 Vatersay to Ardhmor, Barra 24.0km**
 <img src="{{ site.urlimg }}HebridesDay1.png">
 
-I was one of two passengers on the bus over to the first island of Vatersay and was dropped off in the village. The official start point is a little north of the village. The Hebridean Way Cycle Route also starts here and I did see a few cyclists there. The run across the island is mostly on road and is fairly straightforward all the way to the causeway back to Barra.
+I was one of two passengers on the bus over to the first island of Vatersay and was dropped off in the village. The official start point is a little north of the village, near the Vatersay Hall Cafe. As this doesn't open until late morning, I guess it's used by locals rather than tourists. The Hebridean Way Cycle Route also starts here and I did see a few cyclists setting out. The cycle route obviously is on-road, while the walking (or in my case, running) route is off-road wherever possible. The cycle route seems to be pretty popular, and certainly the two ferry journeys were predominantly filled with cyclists.
 
-The route across Barra takes a fairly hilly (and boggy) line along the west of the island and I did manage to lose the way fairly quickly. In some places, the route is marked by poles, but these can be quite difficult to spot when visibility is poor, as it often is. Only 25k which is my shortest day.
+The run across Vatersay is mostly along the island's road and is fairly straightforward, all the way to the causeway back to Barra. After crossing the causeway, you turn left, up a reasonably steep hill. The route across Barra takes a fairly hilly (and boggy) line along the west of the island and I did manage to lose the way fairly quickly. In some places, the route is marked by poles, but these can be quite difficult to spot when visibility is poor, as it often is. Only 25k which is my shortest day.
 
 The weather led to quite a lot of ferry cancellations, but fortunately, my ferry from Barra to Eriskay the next day was OK. 
 
@@ -91,6 +91,7 @@ Short section along the main road and then another good path into the Lewis hill
 
 **Day 8 Balallan, Lewis to Stornoway, Lewis 32.4km**
 <img src="{{ site.urlimg }}HebridesDay8.png">
+
 A good day of running today, 20 miles rather than the advertised 17, quite a lot of it on single track road, the rest of it on a decent raised turf path through the Lewis peat land. Interesting environment, lots of birds - saw ravens, grouse and a golden plover. Panoramic views over the hills and an unexpected short detour to a stone circle.
 
 The endpoint of the trail is a little underwhelming, a marker next to the wheelie bins in a café car park. Fifteen minutes after finishing, the heavens opened and the windspeed went up to around 40mph, so I was very glad of the chance to have a coffee and sandwich.
