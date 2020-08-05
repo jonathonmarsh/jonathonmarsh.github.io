@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "Eriskay"
 header:
-   image_fullwidth: "HebridesBeach.png
+   image_fullwidth: "HebridesBeach.png"
 permalink: "/islands/eriskay"
 ---
 Eriskay is a fairly small island and the route goes from the ferry terminal to the causeway across to South Uist, mainly along the beach. Eriskay has a pub, named for the AM Politician, the ship which led to the Compton Mckenzie book Whisky Galore which has been made into films twice. I also took a short detour to the very well-stocked shop.
