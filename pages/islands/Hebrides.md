@@ -39,7 +39,7 @@ A brief, but interesting run across Eriskay, then over the causeway to South Uis
 
 <img src="{{ site.urlimg }}HebridesDay2c.png">
 Really nice stretch up the west coast of South Uist, although very isolated, as I saw no-one (and also no phone signal).
-Stayed in the lovely Gatliff Howmore hostel, with some interesting company, including a man taking an otter census on South uist, a mother and daughter with a camper van, a Spanish lady who was walking part of the trail and an Australian man who was also walking part of the trail. 
+Stayed in the lovely Gatliff Howmore hostel, with some interesting company, including a man taking an otter census on South Uist, a mother and daughter travelling round with a camper van, a Spanish lady who was walking part of the trail and an Australian man who was also walking part of the trail. 
 
 Pictures from Eriskay are **<a href="{{ site.url }}{{ site.baseurl }}/islands/eriskay">here. ›</a>**
 
