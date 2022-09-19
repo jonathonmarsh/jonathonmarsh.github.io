@@ -14,6 +14,8 @@ To date, I've done the following:
 
 - **<a href="{{ site.url }}{{ site.baseurl }}/islands/hebrides">The Outer Hebrides ›</a>** The Hebridean Way footpath, across the Outer Hebrides (from Vatersay in the South, to Stornoway, Lewis in the North)
 
+- **<a href="{{ site.url }}{{ site.baseurl }}/islands/tiree">Tiree ›</a>** Tiree is one of the Inner Hebrides, around four hours by ferry. This was running all the way around the island, rather than just across it.
+
 Some other running adventures have included:
 
 - **<a href="{{ site.url }}{{ site.baseurl }}/fenrivers">The Fen Rivers Way ›</a>** This is a 48-way route from Kings Lynn to Cambridge, along the rivers Great Ouse and Cam.
