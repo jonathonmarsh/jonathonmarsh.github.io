@@ -17,11 +17,6 @@ widget2:
   url: '/islands/'
   image: BlogIslands.jpg
   text: 'Photos from my running trips across various islands around Britain.'
-widget3:
-  title: "Blog"
-  url: '/blog/'
-  image: BlogImage.jpg
-  text: 'Just notes on various books at the moment.'
   
 #
 # Use the call for action to show a button on the frontpage
