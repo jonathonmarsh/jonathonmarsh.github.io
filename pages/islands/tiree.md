@@ -20,6 +20,7 @@ I'd been warned by someone who visited in the 1970s that all I could expect was 
 Tiree lacks the amazing must-see places that say Skye and Harris have, but has its own tourist niches. Plenty of people there for kite surfing and windsurfing, although I'm not sure about the Hawaii of the North tag. Lots of birdwatching types too. I recognised dunlins and plovers but lots more I'm sure. There is a big music festival and a film festival too. I had the sense everywhere that locals were proud of the island and pleased to welcome tourists.
 
 On to the actual running. Will, of Tiree Fitness, who does a fantastic job of organising the whole thing, puts on a weekend of events. This starts with an optional ' pop-up parkrun' at 10am on Saturday, 5k along the beach. That means wet feet! Saturday afternoon is registration - race number, map, t-shirt and an opportunity to buy a hoodie. 
+
 Pop-up parkrun at a wet Tiree beach.
 <img src="{{ site.urlimg }}Tiree1.jpg" width="800" height="600" border="5">
 
@@ -56,4 +57,6 @@ Leave only footprints
 
 Signage was excellent - never any danger of getting lost.
 <img src="{{ site.urlimg }}Tiree2.jpg" width="800" height="600" border="5">
+
+
 <img src="{{ site.urlimg }}Tiree6.jpg" width="800" height="600" border="5">
