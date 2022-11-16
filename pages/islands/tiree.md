@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "Tiree Ultra"
 header:
-   image_fullwidth: "440px-Millennium_Way.jpg"
+   image_fullwidth: "IMG_20220905_113100122.jpg"
 permalink: "/islands/tiree"
 ---
 
