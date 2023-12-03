@@ -19,7 +19,7 @@ widget2:
   text: 'Photos from my running trips across various islands around Britain.'
 widget3:
   title: "Dales 30"
-  url: '/Dales30/'
+  url: '/dales30/'
   image: DalesNP.jpg
   text: 'Running up the Dales 30 Mountains in the Yorkshire Dales National Park.'
 widget4:
