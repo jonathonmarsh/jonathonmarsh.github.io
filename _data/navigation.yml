@@ -15,7 +15,7 @@
   dropdown:
   - title: "Isle of Man"
     url: "/islands/isleofman"
-  - title: "Mallerstang"
+  - title: "Outer Hebrides"
     url: "/islands/hebrides"
   - title: "Inner Hebrides"
     url: "/islands/tiree"
@@ -26,7 +26,7 @@
   dropdown:
   - title: "Howgills"
     url: "/dales30/howgills"
-  - title: "Outer Hebrides"
+  - title: "Mallerstang"
     url: "/dales30/mallerstang"
   - title: "Northern Dales"
     url: "/dales30/northerndales"
