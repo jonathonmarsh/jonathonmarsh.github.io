@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "The Howgill Fells"
 header:
-   image_fullwidth: "IslandsWater.png"
+   image_fullwidth: "DalesNP.jpg"
 permalink: "/dales30/howgills"
 ---
 The Howgill Fells are a little different to the other mountains in the Dales 30. They are in the northwest of the national park, separated from the Lake District National Park by the M6 to the west and are situated in the land between the lovely town of Sedburgh which lies to the south of them and the villages of Ravenstonedale and Tebay to the North. The River Lune forms a boundary to the north and west and the River Rawthey to the East. Historically, they were split between the West Riding of Yorkshire and Westmorland.
