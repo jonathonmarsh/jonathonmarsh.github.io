@@ -19,7 +19,27 @@
     url: "/islands/hebrides"
   - title: "Inner Hebrides"
     url: "/islands/tiree"
-  - title: "Other"
+
+- title: Dales 30
+  url: "/dales30/"
+  side: left
+  dropdown:
+  - title: "Howgills"
+    url: "/dales30/howgills"
+  - title: "Outer Hebrides"
+    url: "/dales30/mallerstang"
+  - title: "Northern Dales"
+    url: "/dales30/northerndales"
+  - title: "Wharfedale"
+    url: "/dales30/wharfedale"
+  - title: "Western Dales"
+    url: "/dales30/westerndales"
+
+- title: Long Distance Paths
+  url: "/LDPaths/"
+  side: left
+  dropdown:
+  - title: "Fen Rivers Way"
     url: "/fenrivers/"
     
 - title: "About"
