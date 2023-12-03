@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "Hebridean Way"
+title: "The Howgill Fells"
 header:
    image_fullwidth: "IslandsWater.png"
 permalink: "/dales30/howgills"
