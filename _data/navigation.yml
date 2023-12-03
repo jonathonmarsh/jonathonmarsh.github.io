@@ -40,7 +40,7 @@
   side: left
   dropdown:
   - title: "Fen Rivers Way"
-    url: "/fenrivers/"
+    url: "/LDPaths/fenrivers/"
     
 - title: "About"
   url: "/info/"
