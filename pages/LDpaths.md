@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "Long Distance Paths
+title: "Long Distance Paths"
 header:
    image_fullwidth: "IslandsWater.png"
 permalink: "/LDPaths"
