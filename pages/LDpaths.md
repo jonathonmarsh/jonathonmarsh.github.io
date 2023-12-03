@@ -4,7 +4,7 @@ show_meta: false
 title: "Long Distance Paths"
 header:
    image_fullwidth: "IslandsWater.png"
-permalink: "/LDPaths"
+permalink: "/LDPaths/"
 ---
 I've run, or walked, along a number of the UK's long distance paths
 
