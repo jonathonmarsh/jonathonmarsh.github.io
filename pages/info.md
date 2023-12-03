@@ -9,11 +9,13 @@ header:
 ---
 Mainly just a placeholder so that I have the domain for my own name, should I ever need it.
 
-Also a place to keep photos of various running trips and remind myself about books I've read.
+Also a place to keep photos of various running trips.
 
 ## Features
 
 * Island Crossings
+* Dales 30 Mountains
+* Long distance paths
 
 ## Comments and Questions?
 
