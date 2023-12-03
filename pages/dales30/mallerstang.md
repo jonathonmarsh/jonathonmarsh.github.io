@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "Mallerstang"
 header:
-   image_fullwidth: "IslandsWater.png"
+   image_fullwidth: "DalesNP.jpg"
 permalink: "/dales30/mallerstang"
 ---
 The Mallerstang valley is a fairly spectacular valley running from Kirkby Stephen down to the Moorcock Inn. It is the source of the river Eden and the Settle-Carlisle railway and two long distance walking routes pass down the valley. The Mallerstang edge forms the east side of the valley and Wild Boar Fell the west.  David Bellamy described the area as “England’s last Wilderness”.
