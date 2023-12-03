@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "Dales 30"
 header:
-   image_fullwidth: "IslandsWater.png"
+   image_fullwidth: "DalesNP.jpg"
 permalink: "/dales30/"
 ---
 My running project for 2023 was to go up (and down) all of the "Dales 30" group of mountains, which are the thirty mountains inside the boundary of the Yorkshire Dales National Park in the north of England. 
