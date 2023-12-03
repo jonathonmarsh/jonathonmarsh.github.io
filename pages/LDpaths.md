@@ -9,7 +9,7 @@ permalink: "/LDPaths"
 I've run, or walked, along a number of the UK's long distance paths
 
 Scotland:
-- Hebridean Way
+- **<a href="{{ site.url }}{{ site.baseurl }}/islands/hebrides">Hebridean Way›</a>**
 - Borders Abbeys Way
 
 Northern England:
@@ -17,7 +17,7 @@ Northern England:
 - Dales Way
 
 East Anglia:
-- **<a href="{{ site.url }}{{ site.baseurl }}/islands/fenrivers">Fen Rivers Way›</a>**
+- **<a href="{{ site.url }}{{ site.baseurl }}/LDPaths/fenrivers">Fen Rivers Way›</a>**
 - Peddars Way
 - Icknield Way
 
