@@ -22,11 +22,6 @@ widget3:
   url: '/dales30/'
   image: DalesNP.jpg
   text: 'Running up the Dales 30 Mountains in the Yorkshire Dales National Park.'
-widget4:
-  title: "Long Distance Paths"
-  url: '/LDPaths/'
-  image: BlogIslands.jpg
-  text: 'Long distance paths in the UK'
 #
 # Use the call for action to show a button on the frontpage
 #
