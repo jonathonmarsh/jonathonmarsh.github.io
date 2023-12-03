@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "Long Distance Paths"
 header:
-   image_fullwidth: "header_drop.png"
+   image_fullwidth: "header_drop.jpg"
 permalink: "/LDPaths/"
 ---
 I've run, or walked, along a number of the UK's long distance paths
