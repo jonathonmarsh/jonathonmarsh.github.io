@@ -2,7 +2,7 @@
 layout: page
 title: "Running the Fen Rivers Way"
 subheadline: "From Kings Lynn to Cambridge"
-permalink: "/LDPaths/fenrivers/"
+permalink: "/LDPaths/fenrivers"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
