@@ -8,12 +8,12 @@ permalink: "/dales30/mallerstang"
 ---
 The Mallerstang valley is a fairly spectacular valley running from Kirkby Stephen down to the Moorcock Inn. It is the source of the river Eden and the Settle-Carlisle railway and two long distance walking routes pass down the valley. The Mallerstang edge forms the east side of the valley and Wild Boar Fell the west.  David Bellamy described the area as “England’s last Wilderness”.
 
-It contains:
+It contains four of the dales 30, and I list a fifth one here, as it is fairly close by:
 
 On the west side of the valley:
 
-- Wild Boar Fell 708m
-- Swarth Fell 681m
+- *Wild Boar Fell* 708m
+- *Swarth Fell* 681m
 
 These are two of the most attractive mountains in the Dales 30, with good quality paths, good surfaces for running, straightforward navigation and stunning views on a clear day.
 
@@ -37,6 +37,7 @@ On the east side of the valley
 
 This side of the valley has some spectactular scenery, with lots of interesting geology and botany to be seen along Mallerstang Edge. and The Pennine Journey footpath is delightful, with great views in all directions and the settle-carlisle railway line to provide some scale for photos. 
 <img src="{{ site.urlimg }}mallerstang.jpg" width="800" height="600" border="5">
+
 However, moving between the two fells can be pretty tricky, with no real paths and a lot of very boggy ground and quite a navigational challenge unless visibility is good. Possibly the least enjoyable fells in the Dales 30 for me, but perhaps a return in better weather would change my mind.
 
 The fairly uninspiring cairn at Lunds Fell. Incidentally, it appears that there is an ongoing debate about whether Sails is in fact higher than Little Fell.
