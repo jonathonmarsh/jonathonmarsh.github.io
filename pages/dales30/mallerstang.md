@@ -23,10 +23,10 @@ This photo was taken on a sunny day in late Autumn, showing the shelter at the s
 <img src="{{ site.urlimg }}wildboarfellsummit.jpeg" width="800" height="600" border="5">
 
 From only a few metres to the west, this photo shows Sand Tarn and the view towards the Howgills.
-<img src="{{ site.urlimg }}sandtarn.jpg" width="800" height="600" border="5">
+<img src="{{ site.urlimg }}SandTarn.jpg" width="800" height="600" border="5">
 
 This is the cairn at the summit of Swarth Fell, reached by leaving Wild Boar Fell along a path to the South. The path drops down to some damper ground at around the 600m contour mark before rising back up to this secondary peak.
-<img src="{{ site.urlimg }}swarthfellsummit.jpg" width="800" height="600" border="5">
+<img src="{{ site.urlimg }}SwarthFellSummit.jpg" width="800" height="600" border="5">
 
 From both fells, it is possible to cross rough ground to the west to join the 'A Pennine Journey' path, alongside the river Rawthey, to head either southeast to Garsdale Station or the Moorcock Inn, or northwest to the minor road at Uldale House and from there to the A683 at Rawthey Bridge.
 
