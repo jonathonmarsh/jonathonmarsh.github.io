@@ -17,3 +17,11 @@ The Dales 30 concept was invented by Jonathan Smith of where2walk, who published
 - **<a href="https://where2walk.co.uk/home/walking-challenges/the-dales-30/">Where to Walk - the Dales 30 ›</a>**
 
 - **<a href="https://www.mapcustomizer.com/map/Dales%2030%20Mountains">A map of the Dales 30 ›</a>**
+
+I've divided the 30 fells up into five groups, as follows:
+
+- **<a href="{{ site.url }}{{ site.baseurl }}/dales30/howgills">The Howgill Fells </a>**
+- **<a href="{{ site.url }}{{ site.baseurl }}/dales30/mallerstang">The Mallerstang Valley (+Baugh Fell) </a>**
+- **<a href="{{ site.url }}{{ site.baseurl }}/dales30/northerndales">The Northern Dales (Swaledale, Wensleydale and side dales) </a>**
+- **<a href="{{ site.url }}{{ site.baseurl }}/dales30/westerndales">The Western Dales (Three Peaks area) </a>**
+- **<a href="{{ site.url }}{{ site.baseurl }}/dales30/wharfedale">Wharfedale </a>**
