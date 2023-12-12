@@ -61,6 +61,6 @@ Back towards the Cross Keys Temperance Inn
 
 This is best combined with Yarlside, and also pretty steep. Both are rarely visited, but there are superb views to be had in this northeastern part of the Howgills.
 
-<img src="{{ site.urlimg }}RandygillTop.jpeg" width="800" height="600" border="5">
+<img src="{{ site.urlimg }}RandyGillTop.jpeg" width="800" height="600" border="5">
 
 Summit of Randygill Top.
