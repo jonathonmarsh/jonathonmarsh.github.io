@@ -25,14 +25,14 @@ My route from Kettlewell.
 Buckden Pike is only a couple of metres shorter than its neighbour to the south, Great Whernside. It's a straightforward run North along the path from Buckden before turning east for a steeper approach to the ridge. Views can be extensive in fine weather, but our visit in June featured visibility so poor that other visitors had been unable to find the Polish war memorial. 
 
 <img src="{{ site.urlimg }}BuckdenPikePolishWarMemorial.jpeg" width="800" height="600" border="5">
+The Polish War Memorial on Buckden Pike
 
 **Yockenthwaite Moor**
 
 This has a somewhat undeserved reputation for being featureless and boggy. I've been to the top four times and not really encountered much difficulty - certainly much easier navigation and less boggy than say Lunds Fell. My preferred route is using Gilbert Lane (a byway, watch out for occasional off-roading vehicles) and then to follow the fence from the Grey Stone boundary marker/ gate, past South Grain tarn. The route is rough to begin with, but there is a fairly clear footpath for much of the route. Following the fence from the sheep pens at the junction where Gilbert Lane heads to the east and the Pennine Journey route goes west at Green Scar top also provides a good section of very runnable terrain. I suspect that a route from Fleet Moss to the West would be very difficult going.
 
 <img src="{{ site.urlimg }}YockenthwaiteRoute.png" width="800" height="600" border="5">
-
-My route up and down Yockenthwaitr Moor from Kidstones
+My route up and down Yockenthwaite Moor from Kidstones
 
 **Birks Fell**
 
