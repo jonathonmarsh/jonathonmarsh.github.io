@@ -7,7 +7,7 @@ permalink: "/now/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-Updated 9 January 2025
+_Updated 9 January 2025_
 
 We have been living in beautiful Wensleydale since 2022, having moved there from York. 
 
@@ -19,5 +19,4 @@ Still playing various musical instruments, mainly mandolin, and kora. Also still
 
 Continuing to do a fair amount of running, including some local fell races and heading towards 500 parkruns (and 100 volunteers)
 
-
-Inspired by [https://sive.rs/now2](Derek Sivers Now pages)
+Inspired by **<a href="https://sive.rs/now2">(Derek Sivers Now pages)</a>**
