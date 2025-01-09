@@ -46,6 +46,10 @@
   url: "/info/"
   side: right
 
+- title: "Now"
+  url: "/now/"
+  side: right
+
 - title: "Search"
   url: "/search/"
   side: right
