@@ -17,7 +17,7 @@ author: jonmarsh
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://www.jonathonmarsh.com'
+url: 'https://www.jonathonmarsh.com'
 baseurl: '/'
 
 # This is for the editing function in _/includes/improve_content
@@ -30,8 +30,8 @@ baseurl: '/'
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://www.jonathonmarsh.com/images/'
-urlaudio: 'http://www.jonathonmarsh.com/audio/'
+urlimg: 'https://www.jonathonmarsh.com/images/'
+urlaudio: 'https://www.jonathonmarsh.com/audio/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
