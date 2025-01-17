@@ -9,5 +9,5 @@ group :jekyll_plugins do
 end
 
 gem 'asciidoctor', '~> 2.0.23'
-gem 'coderay', '1.1.1'
+gem 'coderay', '1.1.3'
 
