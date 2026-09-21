@@ -4,7 +4,7 @@ source: 'http://www.evagoras.com/2011/02/10/improving-an-xml-feed-display-throug
 breadcrumbs: true
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" {{ page.stylesheetAttributes }}>
+<xsl:stylesheet version="1.0" xmlns:xsl="https://www.w3.org/1999/XSL/Transform" {{ page.stylesheetAttributes }}>
 <xsl:output method="html" encoding="utf-8" />
 <xsl:template match="{{ page.rootMatcher }}">
 	<xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html &gt;</xsl:text>
