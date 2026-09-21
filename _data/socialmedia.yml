@@ -1,20 +1,20 @@
 #- name: GitHub
-#  url: http://github.com/
+#  url: https://github.com/
 #  class: icon-github
 #  title: Code
 
 #- name: YouTube
-#  url: http://www.youtube.com/
+#  url: https://www.youtube.com/
 #  class: icon-youtube
 #  title: "Videos"
 
 #- name: Twitter
-#  url: http://twitter.com/
+#  url: https://twitter.com/
 #  class: icon-twitter
 #  title: "Twitter"
 
 #- name: Mixcloud
-#  url: http://www.mixcloud.com/
+#  url: https://www.mixcloud.com/
 #  class: icon-cloud
 #  title: "Mixcloud"
 
@@ -24,22 +24,22 @@
 #  title: "YouTube Google+"
 
 # - name: Facebook
-#   url: http://www.facebook.com/
+#   url: https://www.facebook.com/
 #   class: icon-facebook
 #   title: ""
 
 # - name: Soundcloud
-#   url: http://soundcloud.com/
+#   url: https://soundcloud.com/
 #   class: icon-soundcloud
 #   title: ""
 
 # - name: Instagram
-#   url: http://instagram.com/
+#   url: https://instagram.com/
 #   class: icon-instagram
 #   title: ""
 
 # - name: Pinterest
-#   url: http://www.pinterest.com/
+#   url: https://www.pinterest.com/
 #   class: icon-pinterest
 #   title: ""
 
